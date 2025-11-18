@@ -37,7 +37,8 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| Litur(iOS) |  | 33% | https://apps.apple.com/us/app/litur/id1487096693?ls=1 | |
+| Litur(macOS) |  | 30% | https://litur.app | Nov 24th 2025 - Dec 2nd 2025 |
+
 
 ## 📚 Courses & Learning
 
@@ -67,7 +68,9 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| Litur(iOS) |  | 33% | https://apps.apple.com/us/app/litur/id1487096693?ls=1 | Nov 24th 2025 - Dec 2nd 2025 |
+| Blark(iOS) |  | 30% OFF Yearly Plan | https://blark.app
+https://apps.apple.com/redeem?ctx=offercodes&id=6742157071&code=BLARKFRIDAY | Nov 24th 2025 - Dec 2nd 2025 |
 
 ## 🎮 Hardware & Gadgets
 
